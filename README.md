@@ -44,12 +44,5 @@ Code may be simple, verbose, or repetitive on purpose to reinforce fundamentals.
 Feel free to explore and learn from it 🙂
 
 
-Then:
-
-```powershell
-git add README.md
-git commit -m "Added learning-only README for students"
-git push
-```
 
 
